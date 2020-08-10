@@ -25,6 +25,8 @@ on any web server or even local file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2014 Git.Training.
